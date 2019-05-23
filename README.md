@@ -3,9 +3,9 @@ Developing Secure IoT triggering mechnisms via Acoustics Triggers 👏. This rep
 
 
 ## Scenario
-Mobile processor benchmarking under battery load, a researcher needed to find a method to automatically disconnect phones from chargers prior to benchmarking in an automated fashion. To her dismay, off-the-shelf IoT smart-plug solutions are insecure and do not expose an documented API for DIYers. On the other hand, the undocumented internal API is completely exposed; the cheap IoT smart plugs work over insecure HTTP in plain text to accept commands. USB power relays, on the otherhand offer a solution but are not off-the-shelf and are pretty dangerous to set up for inexperienced users.
+While benchmarking mobile processors under battery load, a researcher needed to find a method to disconnect phones from chargers prior to benchmarking in an automated fashion. To her dismay, off-the-shelf IoT smart-plug solutions were insecure and do not expose an documented API for DIYers. On the other hand, the undocumented internal API is completely exposed; the cheap IoT smart plugs accept instructions via insecure HTTP POST commands in plain text. USB power relays, on the otherhand offer a solution but are not off-the-shelf and are pretty dangerous to set up for inexperienced users.
 
-The solution? [The Clapper](https://en.wikipedia.org/wiki/The_Clapper). 
+The solution? [The Clapper](https://en.wikipedia.org/wiki/The_Clapper) 👏👏. 
 
 ## Extensions
 
@@ -15,5 +15,5 @@ Since we are effectively proposing an Acoustic Transistor, we believe that we ca
 ### Acoustic Virtual A CPU (A v(A CPU))
 Using we can embed the ability to simulate or drive an A CPU using existing IoT devices such as Amazon's Alexa, by insructing Alexa to clap like so:
 ```
-"Alexa, play two claps" 
+"Alexa, play two claps 👏👏" 
 ```
