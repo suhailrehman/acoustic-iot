@@ -8,4 +8,12 @@ Mobile processor benchmarking under battery load, a researcher needed to find a 
 The solution? [The Clapper](https://en.wikipedia.org/wiki/The_Clapper). 
 
 ## Extensions
+
+### Acoustic Central Processing Unit (A CPU)
 Since we are effectively proposing an Acoustic Transistor, we believe that we can group clappers into logic gates and higher level units until we get microprocess. The proposed processor speed will be measured in Beats per Minute (BPM). We expect the processor to produce a sick beat while executing tight computational flows.
+
+### Acoustic Virtual A CPU (A v(A CPU))
+Using we can embed the ability to simulate or drive an A CPU using existing IoT devices such as Amazon's Alexa, by insructing Alexa to clap like so:
+```
+"Alexa, play two claps" 
+```
