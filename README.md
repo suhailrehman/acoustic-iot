@@ -21,3 +21,11 @@ Having successfully airgapped our system through the use of acousitic-iot, we ar
 ### Exploration of Intersectional IoT and ASoTV Ideation
 
 In future work we would like to explore the security possibilities found in the rich intersection between internet of things devices and as seen on tv technologies (M4TV). Despite the potentially off-putting or campy nature found in ASoTV technologies, we believe that these devices have a valuable utility not present in other state of the art IoT subsystems as they tend to be cheap, highly available, and resiliant to all computer-based attacks. While it is not entirely clear from this juncture what types of IoT applications will be found for products such as "the egg sitter" or "the lizard cam", we are confidident that future research will continue to flush out this burgeoning space.
+
+
+### Addendum
+
+*Note: Use this space to organize thoughts or add things that might not be fully formed sentences*
+Notes from DB meeting
+1) Acoustic Debugging - Programs make noise so you can listen to your A CPU and figure out whats wrong like mechanics with a car engine
+2) Threat Models: Phantom claps, non-audible claps and non-clap audibles.
